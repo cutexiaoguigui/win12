@@ -1,48 +1,34 @@
-# Windows 12 网页版
+<p align="center">
+    <img src="./icon/windows12.svg" width="100" height="100">
+</p>
+<h1 align="center">Windows 12 网页版</h1>
+<p align="center" class="shields">
+  <a href="https://github.com/tjy-gitnub/win12/issues" style="text-decoration:none"><img src="https://img.shields.io/github/issues/tjy-gitnub/win12.svg" alt="GitHub issues"/></a>
+  <a href="https://github.com/tjy-gitnub/win12/stargazers" style="text-decoration:none"><img src="https://img.shields.io/github/stars/tjy-gitnub/win12.svg" alt="GitHub stars"/></a>
+  <a href="https://github.com/tjy-gitnub/win12/network" style="text-decoration:none">
+    <img src="https://img.shields.io/github/forks/tjy-gitnub/win12.svg" alt="GitHub forks"/></a>
+  
+  <a href="https://github.com/tjy-gitnub/win12/blob/master/LICENSE" style="text-decoration:none">
+    <img src="https://img.shields.io/github/license/tjy-gitnub/win12" alt="GitHub License"/></a>
+    
+</p>
+<p align="center" class="language" title="Language selection 语言选择">
+  <a href="readme/README_en_us.md">English</a> | 
+  <a href="readme/README_zh_cn.md">简体中文</a> | 
+  <a href="readme/README_fr_fr.md">Français</a>
+</p>
+<details align="center">
+  <summary>Star History</summary>
+  <a href="https://star-history.com/#tjy-gitnub/win12&Date" style="text-decoration:none">
+    <img src="https://api.star-history.com/svg?repos=tjy-gitnub/win12&type=Date" alt="Star History Chart">
+  </a>
+</details>
 
 ## 公告
 ### 重要！
 无偿恳请各位有能力的用户为我们制作宣传片！
 详情请见[宣传片公告](https://github.com/tjy-gitnub/win12/wiki/%E5%AE%A3%E4%BC%A0%E7%89%87%E5%85%AC%E5%91%8A)
 
-### 一些其它的公告
-> **🎉🎉Windows 12 网页版一周岁生日快乐！`o(^o^)o`**
-> **向在座的各位的支持表示诚挚的感谢！**
-
-## Language selection 语言选择
-- [English](readme/README_en_us.md)
-- [简体中文](readme/README_zh_cn.md)
-- [Français](readme/README_fr_fr.md)
-
-```
-千古有冬夏，一载经春秋。破浪长风扶摇起，夜深星源起处。
-天涯何处觅知音，春秋冬夏君相昔。
-一路有你，纵冰塞黄河，雪满太行，不畏，丈夫未可轻年少。
-愿我如星君如月，夜夜流光相皎洁。
-
-感念一年来大家的支持与鼓励，批评和建议。
-Windows 12 的明天在大家的努力下会更灿烂美好！
-————星源 23/8/28
-```
-
----
-
-> 作者今年初三了，不会做什么功能的更新了。维护和继续开发交给我们的 [@User782Tec](https://github.com/User782Tec) [@NB-Group](https://github.com/NB-Group)，详见 [公告](https://github.com/tjy-gitnub/win12/wiki/%E5%85%AC%E5%91%8A-Notices)。
-
-```
-寒窗苦读九春秋，一朝定乾坤。
-山岭越尽云雾散，霞光终万道。
-待蟾折桂题金榜，再叙一载过往！
-后会有期，明年再见，各位朋友，洒家告辞！
-————星源 23/8/30
-```
-
----
-
-> 🎉🎉项目在 GitHub 上突破✨5.8k✨stars✨啦！芜湖，哦耶！哦耶！🎊🎈`o(^o^)o`
-> 向在座的各位的支持表示诚挚的感谢！
-
----
 
 - [Windows 12 网页版](#windows-12-网页版)
   - [前前言](#前前言)
@@ -62,7 +48,7 @@ Windows 12 的明天在大家的努力下会更灿烂美好！
 
 最近（不久之前）看到有一些冒充我们的，在此做个声明：
 
-我们项目是由 tjy-gitnub（初三），NB-group（预备），782（初一），三位开发者共同开发的！
+我们项目的核心开发团队是由 tjy-gitnub（初三），NB-group（预备），782（初一），三位开发者组成的！
 
 （如果你要为我们制作宣传视频，也请顺带把我们的b站账号挂一下
 
@@ -92,9 +78,9 @@ NB-group：
 
 ![image](https://github.com/tjy-gitnub/win12/assets/121747915/c4a7e71c-ac41-4ab5-ba87-967d188ca2cc)
 
-链接：https://afdian.net/a/qstudio?tab=feed
+链接：<https://afdian.net/a/qstudio>
 
-**我们的项目及源代码绝对不进行强制收费！如果看到售卖本项目且没有注明原项目链接的，或违反EPL-2.0开源协议及本项目开源说明的，欢迎举报！**
+**我们的项目及源代码绝对不进行强制收费！如果看到倒卖本项目且没有注明原项目链接的，或违反EPL-2.0开源协议及本项目开源说明的，欢迎举报！**
 
 ## 前言
 
@@ -143,7 +129,7 @@ NB-group：
 
 ## 安装和使用
 
-下载代码，无需安装，打开 desktop.html 即可。
+下载代码，无需安装，打开 `desktop.html` 即可。
 
 ## 前景规划
 
@@ -176,7 +162,7 @@ NB-group：
 - [ ] 去除多余系统功能，封装成独立的操作系统
 - [ ] 将项目更名为 "Doswin 1.0"
 - [ ] 适配量子计算机
-- [x] 接入chatgpt
+- [x] 接入ChatGPT
 - [ ] 将项目更名为 "550W"
 
 ## 开源说明
@@ -197,11 +183,11 @@ NB-group：
 
 由于近期发现大量滥用行为，在此规定附加条例：
 
-- 任何使用本项目者，必须在介绍里附上原作者及项目链接，不得故意隐瞒原项目中的署名信息、原作者或项目链接，不得限制查看原项目中的署名信息、原作者或项目链接，且不得修改原项目中的署名信息；
+- 任何使用或分享本项目者，必须在介绍里附上原作者及项目链接，不得故意隐瞒原项目中的署名信息、原作者或项目链接，不得限制查看原项目中的署名信息、原作者或项目链接，且不得修改原项目中的署名信息；
 
-- 将本项目用于商业用途者，需要**标明原作者及项目链接**，且**必须**以 EPL 协议开源。未经修改的源代码**不得用于**商业用途；
+- 将本项目用于商业用途者，需要**标明原作者及项目链接**，且**必须**以 EPL-2.0 协议开源。未经修改的源代码**不得用于**商业用途；
 
-- 任何使用本项目者，不得移除或故意隐藏、限制查看本声明；
+- 任何使用或分享本项目者，不得移除或故意隐藏、限制查看本声明；
 
 - 请您遵守上述规定，我方有权通过法律手段进行合法维权。
 

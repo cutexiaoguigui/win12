@@ -1,42 +1,39 @@
-# Windows 12 Web Edition
+<p align="center">
+    <img src="./../icon/windows12.svg" width="100" height="100">
+</p>
+<h1 align="center">Windows 12 Online</h1>
+<p align="center" class="shields">
+  <a href="https://github.com/tjy-gitnub/win12/issues" style="text-decoration:none">
+    <img src="https://img.shields.io/github/issues/tjy-gitnub/win12.svg" alt="GitHub issues"/>
+  </a>
+  <a href="https://github.com/tjy-gitnub/win12/stargazers" style="text-decoration:none">
+    <img src="https://img.shields.io/github/stars/tjy-gitnub/win12.svg" alt="GitHub stars"/>
+  </a>
+  <a href="https://github.com/tjy-gitnub/win12/network" style="text-decoration:none">
+    <img src="https://img.shields.io/github/forks/tjy-gitnub/win12.svg" alt="GitHub forks"/>
+  </a>
+  </a>
+  <a href="https://github.com/tjy-gitnub/win12/blob/master/LICENSE" style="text-decoration:none">
+    <img src="https://img.shields.io/github/license/tjy-gitnub/win12" alt="GitHub License"/>
+  </a>
+</p>
+<p align="center" class="language" title="Language selection 语言选择">
+  <a href="README_en_us.md">English</a> | 
+  <a href="README_zh_cn.md">简体中文</a> | 
+  <a href="README_fr_fr.md">Français</a>
+</p>
+<details align="center">
+  <summary>Star History</summary>
+  <a href="https://star-history.com/#tjy-gitnub/win12&Date" style="text-decoration:none">
+    <img src="https://api.star-history.com/svg?repos=tjy-gitnub/win12&type=Date" alt="Star History Chart">
+  </a>
+</details>
 
-> **🎉🎉 Happy First Birthday to 'Windows 12 Web Edition'！`o(^o^)o`**
-> **Sincere thanks for your support！**
+## Announcement
+### Important!
+Free of charge, we sincerely ask all capable users to make promotional videos for us!
+For details, please refer to [Promotional Video Announcement(Chinese)](https://github.com/tjy-gitnub/win12/wiki/%E5%AE%A3%E4%BC%A0%E7%89%87%E5%85%AC%E5%91%8A)
 
-## Language selection 语言选择
-- [English](README_en_us.md)
-- [简体中文](README_zh_cn.md)
-- [Français](README_fr_fr.md)
-
-```
-千古有冬夏，一载经春秋。破浪长风扶摇起，夜深星源起处。
-天涯何处觅知音，春秋冬夏君相昔。
-一路有你，纵冰塞黄河，雪满太行，不畏，丈夫未可轻年少。
-愿我如星君如月，夜夜流光相皎洁。
-
-感念一年来大家的支持与鼓励，批评和建议。
-Windows 12 的明天在大家的努力下会更灿烂美好！
-————星源 23/8/28
-```
-
----
-
-> The author is in his third year and won't be doing any feature updates. Maintenance and continued development is left to our [@User782Tec](https://github.com/User782Tec) [@NB-Group](https://github.com/NB-Group)，refer to [Announcement(Chinese)](https://github.com/tjy-gitnub/win12/wiki/%E5%85%AC%E5%91%8A-Notices)。
-
-```
-寒窗苦读九春秋，一朝定乾坤。
-山岭越尽云雾散，霞光终万道。
-待蟾折桂题金榜，再叙一载过往！
-后会有期，明年再见，各位朋友，洒家告辞！
-————星源 23/8/30
-```
-
----
-
-> 🎉🎉Project breaks ✨5.6k✨stars✨ on GitHub now! WOW🎊🎈`o(^o^)o`
-> Sincere thanks for your support！
-
----
 
 - [Windows 12 Web Edition](#windows-12-web-edition)
   - [Introduction Before Introduction](#introduction-before-introduction)
@@ -83,7 +80,7 @@ The only official account in the world where you can donate! Shine your eyes! Do
 
 ![image](https://github.com/tjy-gitnub/win12/assets/121747915/c4a7e71c-ac41-4ab5-ba87-967d188ca2cc)
 
-URL：https://afdian.net/a/qstudio?tab=feed
+URL：<https://afdian.net/a/qstudio>
 
 **This project and source code is absolutely no mandatory charges! If you see the sale of this project and did not specify the original project link, or violation of the EPL-2.0 open source agreement and the project open source description, welcome to report!**
 
@@ -91,7 +88,7 @@ URL：https://afdian.net/a/qstudio?tab=feed
 
 Recently (a long time ago), inspired by the concept of Windows 12 (Powered by PowerPoint), I decided to create a web version of Windows 12, similar to [Win11 in React](https://win11.blueedge.me/).
 
-Consultation [Preview](#preview)。
+Consultation [Preview](#preview).
 
 Beautiful ui design, smooth and rich animations, various advanced features (compared to the web version).
 
@@ -134,7 +131,7 @@ It's a little slow. Wait a minute.
 
 ## Installation And Use
 
-Download the code, no need to install, just open desktop.html.
+Download the code, no need to install, just open `desktop.html`.
 
 ## Subsequent Planning
 
@@ -198,6 +195,6 @@ Due to the large number of abuses detected in the recent past, additional regula
 
 ## How-To-Contribute
 
-For details, please see [How To Contribute(Chinese)](../CONTRIBUTING.md)。
+For details, please see [How To Contribute(Chinese)](../CONTRIBUTING.md).
 
-### Translated by [@Junchen Yi](https://github.com/Jimmy-Effe)
+> Translated by [@Junchen Yi](https://github.com/Jimmy-Effe)
