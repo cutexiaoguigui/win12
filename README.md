@@ -1,20 +1,27 @@
+> [!NOTE]
+> 无偿请求帮助我们翻译此项目！目前暂仅需英语。详见[此](lang/readme.md)。
+
 <p align="center">
     <img src="./icon/windows12.svg" width="100" height="100">
 </p>
 <h1 align="center">Windows 12 网页版</h1>
 <p align="center" class="shields">
-  <a href="https://github.com/tjy-gitnub/win12/issues" style="text-decoration:none"><img src="https://img.shields.io/github/issues/tjy-gitnub/win12.svg" alt="GitHub issues"/></a>
-  <a href="https://github.com/tjy-gitnub/win12/stargazers" style="text-decoration:none"><img src="https://img.shields.io/github/stars/tjy-gitnub/win12.svg" alt="GitHub stars"/></a>
-  <a href="https://github.com/tjy-gitnub/win12/network" style="text-decoration:none">
-    <img src="https://img.shields.io/github/forks/tjy-gitnub/win12.svg" alt="GitHub forks"/></a>
-  
-  <a href="https://github.com/tjy-gitnub/win12/blob/master/LICENSE" style="text-decoration:none">
-    <img src="https://img.shields.io/github/license/tjy-gitnub/win12" alt="GitHub License"/></a>
-    
+  <span href="https://github.com/tjy-gitnub/win12/issues" style="text-decoration:none">
+    <img src="https://img.shields.io/github/issues/tjy-gitnub/win12.svg" alt="GitHub issues"/>
+  </span>
+  <span href="https://github.com/tjy-gitnub/win12/stargazers" style="text-decoration:none">
+    <img src="https://img.shields.io/github/stars/tjy-gitnub/win12.svg" alt="GitHub stars"/>
+  </span>
+  <span href="https://github.com/tjy-gitnub/win12/network" style="text-decoration:none">
+    <img src="https://img.shields.io/github/forks/tjy-gitnub/win12.svg" alt="GitHub forks"/>
+  </span>
+  <span href="https://github.com/tjy-gitnub/win12/blob/master/LICENSE" style="text-decoration:none">
+    <img src="https://img.shields.io/github/license/tjy-gitnub/win12" alt="GitHub License"/>
+  </pan>
 </p>
 <p align="center" class="language" title="Language selection 语言选择">
   <a href="readme/README_en_us.md">English</a> | 
-  <a href="readme/README_zh_cn.md">简体中文</a> | 
+  <b>简体中文</b> | 
   <a href="readme/README_fr_fr.md">Français</a>
 </p>
 <details align="center">
@@ -25,10 +32,11 @@
 </details>
 
 ## 公告
+
 ### 重要！
+
 无偿恳请各位有能力的用户为我们制作宣传片！
 详情请见[宣传片公告](https://github.com/tjy-gitnub/win12/wiki/%E5%AE%A3%E4%BC%A0%E7%89%87%E5%85%AC%E5%91%8A)
-
 
 - [Windows 12 网页版](#windows-12-网页版)
   - [前前言](#前前言)
@@ -41,8 +49,8 @@
   - [开源说明](#开源说明)
   - [贡献须知](#贡献须知)
   - [AI Copilot 实现](#ai-copilot-实现)
-
-
+    
+    
 
 ## 前前言
 
@@ -78,7 +86,7 @@ NB-group：
 
 ![image](https://github.com/tjy-gitnub/win12/assets/121747915/c4a7e71c-ac41-4ab5-ba87-967d188ca2cc)
 
-链接：<https://afdian.net/a/qstudio>
+链接：<https://afdian.com/a/qstudio>
 
 **我们的项目及源代码绝对不进行强制收费！如果看到倒卖本项目且没有注明原项目链接的，或违反EPL-2.0开源协议及本项目开源说明的，欢迎举报！**
 
@@ -96,8 +104,8 @@ NB-group：
 
 特别感谢以下赞助者:
 
-- CursoR_光标（<https://afdian.net/a/cursor>）
-- Baymax（<https://afdian.net/u/a131cd504dea11eeb6be5254001e7c00>）
+- CursoR_光标（<https://afdian.com/a/cursor>）
+- Baymax（<https://afdian.com/u/a131cd504dea11eeb6be5254001e7c00>）
 
 在此对以上赞助者表示公开鸣谢！
 
@@ -198,3 +206,7 @@ NB-group：
 ## AI Copilot 实现
 
 详情请见 [AI Copilot 实现](./scripts/AI%20Copilot%20service/README.md)
+
+
+
+
