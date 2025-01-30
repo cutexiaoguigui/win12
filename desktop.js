@@ -1207,7 +1207,7 @@ let copilot = {
             //     localStorage.setItem('ailimitday',(new Date()).toDateString());
             //     localStorage.setItem('ailimit','0');
             // }
-            localStorage.setItem('ailimit',(Number(localStorage.getItem('ailimit'))+1).toString());
+            // localStorage.setItem('ailimit',(Number(localStorage.getItem('ailimit'))+1).toString());
         }
 
         $('#copilot>.inputbox').addClass('disable');
@@ -1311,7 +1311,7 @@ let copilot = {
 
                 copilot.history.push({ role: 'assistant', content: responseText });
                 
-                if(Number(localStorage.getItem('ailimit'))>=7){
+                if(0){
                     $('#copilot>.inputbox').addClass('disable');
                     $('#copilot>.chat').append('<div class="line system"><p class="text">非常抱歉，但已达到本日对话限制 (7句)，请移步到其他 AI 网站 >u-)o</p></div>');
                     $('#copilot>.chat').scrollTop($('#copilot>.chat')[0].scrollHeight);
